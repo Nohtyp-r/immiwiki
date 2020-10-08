@@ -1,7 +1,7 @@
 ImmiWiki Australia
 =======
 
-![](resources/images/cover.png | width=350)
+![](resources/images/cover_350.png)
 
 Last update: 08 Oct, 2020
 
