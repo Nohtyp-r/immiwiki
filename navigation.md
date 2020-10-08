@@ -1,6 +1,6 @@
 # ImmiWiki - Australia
 
-[Home 首页](index.md)
+[Home 首页](#!index.md)
 [Preparations 准备工作](docs/preparations.md)
 [Applications 申请相关](docs/applications.md)
 [Processings 审理相关](docs/processings.md)
